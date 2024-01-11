@@ -1,5 +1,7 @@
 <template>
   <div>
+<nuxt-link to="/"> go to home </nuxt-link>
+
     	<button
 						v-b-modal.modal-2
 					>open</button>
